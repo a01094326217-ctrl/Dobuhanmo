@@ -1,0 +1,11 @@
+{
+  "name": "편입 공부 플래너",
+  "short_name": "편입 플래너",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#f7f8fc",
+  "description": "수업, 알바, 편입 공부를 관리하는 주간 학습 플래너"
+}
